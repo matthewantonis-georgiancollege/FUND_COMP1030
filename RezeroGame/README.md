@@ -24,7 +24,7 @@
 
 Welcome to the world of Re:Zero - Starting life in another world! You are Subaru Natsuki, a young man who finds himself transported to a magical world filled with danger and intrigue. Armed only with his wits and a newfound power to return from death, Subaru must navigate this strange new world and uncover the dangers that lie within. You will face a variety of challenges in your journey, from fierce battles to complex social interactions with the people of this world. Your choices will have consequences, so be careful as you make decisions that could alter the course of your adventure. Will you be able to survive and thrive in this new world, or will you meet an untimely end? The fate of Subaru and the world of Re:Zero is in your hands.
 
-### [Gameplay Guide](https://youtu.be/pqG-ORWbKyE)
+### [Gameplay Walkthrough Video](https://youtu.be/pqG-ORWbKyE)
 
 ## Notes: 
 - Created in Visual Studio 2022.
